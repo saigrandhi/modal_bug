@@ -38,6 +38,7 @@ npm-debug.log
 #####=== Xcode ===#####
 /ios/build/
 ios/build
+/build
 *.pbxuser
 !default.pbxuser
 *.mode1v3
